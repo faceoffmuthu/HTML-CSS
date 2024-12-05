@@ -1,0 +1,52 @@
+#Avengers{
+    text-align: center;
+}
+img{
+    position: relative;
+    width:19%;
+    height:80vh;
+    border-radius: 8px;
+}
+img{
+    text-align: center;
+}
+.one{
+    display: inline;
+    margin-left:1%;
+    border: 1px;
+  
+}
+.iron {
+    display: inline;
+    position: relative;
+    left:-277px ;
+    color: rgb(92, 3, 3);
+    
+}
+.thor {
+    color: blue;
+    display: inline;
+    position: relative;
+    left: -117px;
+}
+.cap{
+    color: rgb(5, 5, 83);
+    display: inline;
+    position: relative;
+    left: 14px;
+    
+}
+.hulk{
+    color: rgb(1, 62, 1);
+    display: inline;
+    position: relative;
+    left: 134px;
+
+}
+.spider{
+    color: rgb(231, 6, 6);
+    display: inline;
+    position: relative;
+    left: 279px;
+}
+
