@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="Avengers">
+    <img src="iron3.jpg">
+    <img src="thor.jpg">
+    <img src="cap1.jpg">
+    <img src="hulk5.webp">
+    <img src="spider2.jpg">
+    <div class="one">
+        <h1 class="iron">IRON MAN</h1>
+        <h1 class="thor">THOR</h1>
+        <h2 class="cap">CAPTAIN AMERICA</h2>
+        <h1 class="hulk">HULK</h1>
+        <h1 class="spider">SPIDER MAN</h1>
+    </div>
+</div>
+   
+    
+</body>
+</html>
