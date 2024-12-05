@@ -21,6 +21,7 @@ img{
     position: relative;
     left:-277px ;
     color: rgb(92, 3, 3);
+    text-shadow: 2px 2px 5px rgb(240, 0, 0);
     
 }
 .thor {
@@ -28,12 +29,14 @@ img{
     display: inline;
     position: relative;
     left: -117px;
+    text-shadow: 2px 2px 5px rgb(0, 0, 245);
 }
 .cap{
     color: rgb(5, 5, 83);
     display: inline;
     position: relative;
     left: 14px;
+    text-shadow: 2px 2px 5px rgb(27, 8, 170);
     
 }
 .hulk{
@@ -41,6 +44,7 @@ img{
     display: inline;
     position: relative;
     left: 134px;
+    text-shadow: 2px 2px 5px rgb(2, 49, 2);
 
 }
 .spider{
@@ -48,5 +52,6 @@ img{
     display: inline;
     position: relative;
     left: 279px;
+    text-shadow: 2px 2px 5px rgb(249, 2, 2);
 }
 
